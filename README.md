@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**LLJester1/LLJester1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ◯ ☽ ◑ 𝔚𝔢𝔩𝔠𝔬𝔪𝔢 ◐ ❨ ◯
+ (WIP)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 𝔄𝔟𝔬𝔲𝔱 𝔐𝔢
+
+```
+Call me Jester, I am 20+ adult and an artist, I am obsessed with writing and spacing out.
+
+
+
+
+
+---
